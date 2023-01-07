@@ -1,0 +1,100 @@
+.header {
+    background: #002D2D;
+    height: 80px;
+    padding: 25px 100px;
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+}
+
+.container {
+    padding-top: 200px;
+}
+
+.aboutme {
+    background-color: #002D2D;
+    padding: 100px 100px;
+}
+
+.navbar {
+    margin-left: 200px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0px;
+    width: 350px;
+}
+.java{
+    margin-top: 200px;
+}
+.css{
+    margin-top: 200px;
+    width: 100%;
+    background-color: #FBF7ED;
+    padding: 100px 100px    ;
+}
+.card2{
+    margin-top: 50px;
+    display: flex;
+    align-items: baseline;
+    gap: 60px;
+}
+.sass{
+    margin-top: 200px;
+    width: 100%;
+    background-color: #FBF7ED;
+    left: -10px;
+}
+
+.navbar-one {
+    margin-left: 200px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    width: 350px;
+}
+.footer{
+    display: flex;
+    justify-content: right;
+    gap: 50px;
+}
+
+.d-flex{
+    gap: 50px;
+}
+
+.wrapper {
+    width: 1000px;
+    height: 500px;
+    left: 64px;
+    top: 1112px;
+    padding: 50px;
+    background: #799102;
+    border-radius: 30px;
+}
+
+.app{
+    margin-top: 100px;
+}
+
+.reacpt{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.footers{
+    margin-top: 200px;
+    background-color: #002D2D;
+    height: 850px;
+    color: #FBF7ED;
+    padding: 60px  70px;
+    font-weight: 400;
+}
+.grj{
+    display: flex;
+    gap: 250px;
+}
+.footers h6{
+    font-weight: 400;
+}
